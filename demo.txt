@@ -4,4 +4,4 @@ Adding third line.
 
 Last line of my file `on feature branch.
 Automatic merge through feature
-feature branch1
+feature branch in my file
