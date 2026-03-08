@@ -3,3 +3,4 @@ Added second lineinmy file successfully.
 Adding third line.
 
 Last line of my file `on feature branch.
+Automatic merge through feature 
