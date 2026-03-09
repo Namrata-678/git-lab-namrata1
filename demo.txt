@@ -6,3 +6,4 @@ Last line of my file `on feature branch.
 Automatic merge through feature
 feature branch in my file
 Added line on file at 10 march
+line at 9:50
