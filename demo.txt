@@ -1,11 +1,5 @@
 welcome to zeal polytecnic  git.
-syco a
-2nd line
+Added second lineinmy file successfully.
+Adding third line.
 
-successfully added lines
-
-
-thank youu
-
-Added more lines on 04-March-2026
-Last line of file
+Last line of my file `on feature branch.
